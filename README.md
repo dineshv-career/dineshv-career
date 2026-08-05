@@ -67,6 +67,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshv-career/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dineshv-career)
+
 📧 **Email:** dineshv.career@gmail.com
 
 📱 **Phone:** +91 63747 62475
