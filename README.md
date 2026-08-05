@@ -2,7 +2,7 @@
 
 ### Software Engineer | Front-End Developer
 
-💻 Software Engineer with **3+ years of experience** building modern web applications using React.js, Next.js, Angular, TypeScript, and Node.js.
+💻 Software Engineer with **4+ years of experience** building modern web applications using React.js, Next.js, Angular, TypeScript, and Node.js.
 
 🌱 Currently learning **System Design, Docker, AWS, and CI/CD**
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 💼 3+ years of professional software development experience
+- 💼 4+ years of professional software development experience
 - ⚛️ Specialized in React.js, Next.js, and Angular
 - 🔥 Passionate about building responsive and scalable web applications
 - 🤝 Enjoy collaborating in Agile teams and solving real-world problems
@@ -63,10 +63,13 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: *(We'll add this in the next step)*
-- 📧 Email: **dineshv.career@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/dineshv-career/))
+
+📧 **Email:** dineshv.career@gmail.com
+
+📱 **Phone:** +91 63747 62475
 
 ---
 
