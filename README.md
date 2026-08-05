@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋, I'm Dinesh V
 
-<!--
-**dineshv-career/dineshv-career** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Front-End Developer
 
-Here are some ideas to get you started:
+💻 Software Engineer with **3+ years of experience** building modern web applications using React.js, Next.js, Angular, TypeScript, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **System Design, Docker, AWS, and CI/CD**
+
+📍 Bangalore, India
+
+📫 Email: **dineshv.career@gmail.com**
+
+---
+
+## 🚀 About Me
+
+- 💼 3+ years of professional software development experience
+- ⚛️ Specialized in React.js, Next.js, and Angular
+- 🔥 Passionate about building responsive and scalable web applications
+- 🤝 Enjoy collaborating in Agile teams and solving real-world problems
+- 📚 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- Next.js
+- Angular
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+- SCSS
+- Redux
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+
+- MongoDB
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- Jira
+- VS Code
+
+---
+
+## 📈 GitHub Stats
+
+> GitHub stats will be added in the next step.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *(We'll add this in the next step)*
+- 📧 Email: **dineshv.career@gmail.com**
+
+---
+
+⭐ Thanks for visiting my profile!
