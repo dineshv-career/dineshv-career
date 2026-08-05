@@ -8,8 +8,6 @@
 
 📍 Bangalore, India
 
-📫 Email: **dineshv.career@gmail.com**
-
 ---
 
 ## 🚀 About Me
