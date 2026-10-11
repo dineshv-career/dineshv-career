@@ -58,7 +58,6 @@ From driving end-to-end frontend ownership for **Enterprise SaaS platforms** to 
 ### 🧪 Testing, Tooling & Practices
 <p>
   <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="React Testing Library" />
-  <img src="https://img.shields.io/badge/Karma-56C5A8?style=flat-square" alt="Karma" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
