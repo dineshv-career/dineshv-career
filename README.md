@@ -1,7 +1,7 @@
 # Hi there, I'm Dinesh V 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dineshv-career/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/dineshv01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dineshv.career@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/916374762475"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://github.com/dineshv-career"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -82,7 +82,7 @@ I am actively interviewing for **Senior Frontend Developer** and **Full-Stack So
 
 - 🎯 **Target Domains:** Product-based SaaS, Fintech, Enterprise Scale Platforms, High-Throughput UI Systems
 - ⏱️ **Notice Period:** Immediate / 15 Days
-- 📬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/dineshv-career/) • [dineshv.career@gmail.com](mailto:dineshv.career@gmail.com) • +91 63747 62475
+- 📬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/dineshv01/) • [dineshv.career@gmail.com](mailto:dineshv.career@gmail.com) • +91 63747 62475
 
 ---
 
